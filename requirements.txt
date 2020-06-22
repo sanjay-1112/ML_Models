@@ -6,6 +6,6 @@ numpy>=1.9.2
 
 pandas>=0.19
 flasgger>=0.9.4
-tensorflow>=2.0.0
+
 nltk>=3.4.5
 
