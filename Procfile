@@ -1,1 +1,5 @@
-web: gunicorn iphone_predictive_Application:Swagger(app)
+web: gunicorn wsgi:app
+
+
+
+
