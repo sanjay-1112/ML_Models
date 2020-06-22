@@ -12,4 +12,4 @@ pandas>=0.19
 flasgger>=0.9.4
 tensorflow>=2.0.0
 nltk>=3.4.5
-re>=2.2.1
+
