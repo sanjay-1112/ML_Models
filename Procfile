@@ -1,4 +1,4 @@
-web: gunicorn wsgi:iphone_predictive_Application
+web: gunicorn iphone_predictive_Application:app
 
 
 
